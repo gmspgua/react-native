@@ -30,6 +30,8 @@ const AppNAvigator = createStackNavigator({
   }
 });
 
+//teste
+
 const AppContainer = createAppContainer(AppNAvigator);
 
 export default AppContainer;
